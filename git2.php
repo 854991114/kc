@@ -1,2 +1,2 @@
 <?php
-echo git2s;
+echo "git2.php";
