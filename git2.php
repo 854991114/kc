@@ -1,2 +1,2 @@
 <?php
-echo "This is git2.php222asas";
+echo "This is sasasgit2.php222";
