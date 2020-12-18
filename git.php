@@ -1,2 +1,2 @@
 <?php
-echo "git123.php";
+echo "git1.php";
